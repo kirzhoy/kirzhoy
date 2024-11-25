@@ -1,5 +1,5 @@
 ## Hi there, I'm Evgenia
-· ***
+
 ### QA engineer from Tbilisi
 
 <!--
