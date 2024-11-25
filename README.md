@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Evgenia
+· ***
+### QA engineer from Tbilisi
 
 <!--
 **kirzhoy/kirzhoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
