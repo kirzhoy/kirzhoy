@@ -1,6 +1,10 @@
-## Hi there, I'm Evgenia
+<div id="header", align = "center">
+ H1 ## Hi there, I'm Evgenia
+ H3 ### QA engineer from Tbilisi
+</div>
 
-### QA engineer from Tbilisi
+
+
 
 <!--
 **kirzhoy/kirzhoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
