@@ -3,6 +3,14 @@
  <h3> QA engineer from Tbilisi </h3>
 </div>
 
+<div id = "socials" align = "center">
+<a href="[linkedIn url](https://www.linkedin.com/in/evgenia-kirzhoy-b1238726a/)">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white">
+</a>
+
+</div>
+
+
 
 
 
