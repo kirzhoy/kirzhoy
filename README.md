@@ -5,9 +5,11 @@
 
 <div id = "socials" align = "center">
 <a href="https://www.linkedin.com/in/evgenia-kirzhoy-b1238726a">
-  <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white">
+  <img src = "https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white" alt = "LinkedIn">
 </a>
-
+<a href="https://t.me/evakirzh"> 
+  <img src = "https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt = "Telegram">
+</a>
 </div>
 
 
