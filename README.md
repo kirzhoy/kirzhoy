@@ -13,9 +13,8 @@
 </div>
 
 ### Languages and tools
-<div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title = "Sql" width = "40", heigh="40"/>
-</div>
+
 
           
 
