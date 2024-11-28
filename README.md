@@ -16,15 +16,16 @@
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title = "Java" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title = "junit" width = "40", heigh="40"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  title = "Postman" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title = "HTML" width = "40", heigh="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" title = "css" width = "40", heigh="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  title = "Postman" width = "40", heigh="40"/>&nbsp; 
+ <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png"  title = "Charls" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original-wordmark.svg" title = "Jira" width = "40", heigh="40"/>&nbsp;  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" title = "Sql" width = "50", heigh="50"/>&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title = "Idea" width = "40", heigh="40"/>&nbsp; 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width = "40", heigh="40"/>&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title = "Idea" width = "40", heigh="40"/>&nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width = "40", heigh="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" title = "confluence" width = "40", heigh="40"/>&nbsp;
-<img src="https://www.svgrepo.com/show/310247/window-dev-tools.svg" title = "devtools" width = "40", heigh="40"/>&nbsp;
+ <img src="https://www.svgrepo.com/show/310247/window-dev-tools.svg" title = "devtools" width = "40", heigh="40"/>&nbsp;
   </div>
  
 
