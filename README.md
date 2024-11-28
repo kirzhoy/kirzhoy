@@ -25,9 +25,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" title = "Selenium" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title = "junit" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" title = "HTML" width = "40", heigh="40"/>&nbsp;
+  <img src="https://drive.google.com/file/d/1hc30g0SrLv0JZgGG9VXCMOIKDclAuC5U/view?usp=sharing" title = "RestAssured" width = "40", heigh="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title = "Idea" width = "40", heigh="40"/>&nbsp; 
-  </div>
- 
+ </div>
+
 
 
          
