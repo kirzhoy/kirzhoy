@@ -24,7 +24,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" title = "Idea" width = "40", heigh="40"/>&nbsp; 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" width = "40", heigh="40"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original-wordmark.svg" title = "confluence" width = "40", heigh="40"/>&nbsp;
-<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+<img src="https://www.svgrepo.com/show/310247/window-dev-tools.svg" title = "devtools" width = "40", heigh="40"/>&nbsp;
   </div>
  
 
