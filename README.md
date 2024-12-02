@@ -33,8 +33,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
-### Other links 
-![Codewars](https://www.codewars.com/users/Kirzh/badges/small)
+<! --### Other links 
+![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
          
           
           
