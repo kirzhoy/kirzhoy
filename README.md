@@ -28,6 +28,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" alt = "HTML" title = "HTML" width = "40", heigh="40"/>&nbsp;
   <img src="https://github.com/kirzhoy/pics/blob/main/Rest%20Assured.png" alt = "RestAssured" title = "RestAssured" width = "37", heigh="37"/>&nbsp;
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt = "Idea" title = "Idea" width = "40", heigh="40"/>&nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
 
