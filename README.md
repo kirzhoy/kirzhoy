@@ -14,7 +14,8 @@
 
 ### Languages and tools
 <div>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt = "Postman" title = "Postman" width = "40", heigh="40"/>&nbsp; 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt = "Postman" title = "Postman" width = "40", heigh="40"/>&nbsp;
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
  <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/charles_proxy_macos_bigsur_icon_190302.png" alt = "Charls" title = "Charls" width = "40", heigh="40"/>&nbsp; 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" alt = "Sql" title = "Sql" width = "50", heigh="50"/>&nbsp;
  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp;
