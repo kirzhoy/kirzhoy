@@ -35,7 +35,7 @@
 
 ### Test artifacts 
 
-<table border="1" style="border-collapse: collapse; width: 100%;>
+<table border="1" style="border-collapse: collapse; width: 100;">
   <caption>Дипломная работа</caption>   
  <tr>
     <td valign="top" width="50%">Описание</td>
