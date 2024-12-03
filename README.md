@@ -33,7 +33,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
-### Test artefacts 
+### Test artifacts 
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
   <caption>Дипломная работа</caption>   
