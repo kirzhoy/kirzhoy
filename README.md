@@ -33,6 +33,19 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
+<table border="1" style="border-collapse: collapse; width: 100%;">
+  <caption>Дипломная работа</caption>
+ <tr>
+    <td>Описание</td>
+    <td>Чек-листы</td>
+  </tr>
+  <tr>
+    <td>Ячейка 2,1</td>
+    <td>Ячейка 2,2</td>
+  </tr>
+</table>
+
+
 <!-- ### Other links 
 ![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
          
