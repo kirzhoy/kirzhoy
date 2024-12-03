@@ -33,15 +33,21 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
+### Test artefacts 
+
 <table border="1" style="border-collapse: collapse; width: 100%;">
-  <caption>Дипломная работа</caption>
+  <caption>Дипломная работа</caption>   <table><tr><td valign="top" width="33%">
  <tr>
-    <td>Описание</td>
-    <td>Чек-листы</td>
+    <td valign="top" width="50%">Описание</td>
+    <td valign="top" width="50%">Чек-листы</td>
   </tr>
   <tr>
-    <td>Ячейка 2,1</td>
-    <td>Ячейка 2,2</td>
+    <td valign="top" width="50%">Баг-репорты</td>
+    <td valign="top" width="50%">Колекция Postman</td>
+  </tr>
+     <tr>
+    <td valign="top" width="50%">Auto UI</td>
+    <td valign="top" width="50%">Auto Back</td>
   </tr>
 </table>
 
