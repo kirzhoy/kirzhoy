@@ -35,14 +35,13 @@
  </div>
 
 
-
 <h2>Test artifacts</h2> 
 
- <h3>📙 Final Year Project</h3> 
+<h3>📙 Final year Project</h3> 
 
 <table  style="border-collapse: collapse"; width: "100%">
  <tr>
-    <td valign="top" width="50%">Description and Product requirements</td> 
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/DiplomaRequirements/tree/main" target="_blank">Description and Product requirements</td> 
     <td valign="top" width="50%"><a href="https://docs.google.com/spreadsheets/d/1zSv6YlBJdIpl5B7pX4m8-pgJeJ-F8SMxUSu6jx2rjOE/edit?gid=0#gid=0" target="blank">Manual testing checklist</td> 
   </tr>
   <tr>
