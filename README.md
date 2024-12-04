@@ -36,11 +36,11 @@
 
 <h2>Test artifacts</h2> 
 
-<table  style="border-collapse: collapse; width: 100;">
-  <caption style="font-weight: bold">Дипломная работа</caption>   
+<table  style="border-collapse: collapse"; width: "100%">
+  <caption style="font-weight: bold">Final Year Project</caption>   
  <tr>
-    <td valign="top" width="50%">Описание</td>
-    <td valign="top" width="50%">Чек-листы</td>
+    <td valign="top" width="50%">Description and Product requirements</td>
+    <td valign="top" width="50%">Cheklist </td>
   </tr>
   <tr>
     <td valign="top" width="50%">Баг-репорты</td>
