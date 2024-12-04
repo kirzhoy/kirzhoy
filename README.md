@@ -36,6 +36,8 @@
 
 <h2>Test artifacts</h2> 
 
+<h1>Final Year Project</h1>
+
 <table  style="border-collapse: collapse"; width: "100%">
   <caption style="font-weight: bold">Final Year Project</caption>   
  <tr>
