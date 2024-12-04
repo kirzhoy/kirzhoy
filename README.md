@@ -58,7 +58,8 @@
 - mindMap (And)
 - Postman with prescripts (And)
 - Testcases (And)
-- User stories (RedRover) -->
+- User stories (RedRover)
+- bugreports in Jira-->
 
 
 <!-- ![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
