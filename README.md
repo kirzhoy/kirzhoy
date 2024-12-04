@@ -34,10 +34,10 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp; 
  </div>
 
-### Test artifacts 
+<h2>Test artifacts</h2> 
 
 <table  style="border-collapse: collapse; width: 100;">
-  <caption style="font-weight: bold;">Дипломная работа</caption>   
+  <caption style="font-weight: bold">Дипломная работа</caption>   
  <tr>
     <td valign="top" width="50%">Описание</td>
     <td valign="top" width="50%">Чек-листы</td>
