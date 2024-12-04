@@ -36,7 +36,7 @@
 
 <h2>Test artifacts</h2> 
 
- <h3> :memo: 📙 Final Year Project</h3> 
+ <h3>📙 Final Year Project</h3> 
 
 <table  style="border-collapse: collapse"; width: "100%">
  <tr>
