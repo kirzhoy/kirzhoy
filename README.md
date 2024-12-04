@@ -48,7 +48,9 @@
   </tr>
      <tr>
     <td valign="top" width="50%">Auto UI</td>
-    <td valign="top" width="50%">Auto Back</td>
+    <td valign="top" width="50%">
+  <a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests API</a>
+</td>
   </tr>
 </table>
 
