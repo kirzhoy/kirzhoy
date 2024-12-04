@@ -54,9 +54,14 @@
   </tr>
 </table>
 
+<!-- <h3>📙 Other works </h3> 
+- mindMap (And)
+- Postman with prescripts (And)
+- Testcases (And)
+- User stories (RedRover) -->
 
-<!-- ### Other links 
-![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
+
+![Codewars](https://www.codewars.com/users/Kirzh/badges/small)
          
           
           
