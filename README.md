@@ -61,7 +61,7 @@
 - User stories (RedRover) -->
 
 
-![Codewars](https://www.codewars.com/users/Kirzh/badges/small)
+<!-- ![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
          
           
           
