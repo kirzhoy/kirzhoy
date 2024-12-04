@@ -47,7 +47,7 @@
   </tr>
   <tr>
     <td valign="top" width="50%">Bug reports</td>
-    <td valign="top" width="50%">Request сollection in Postman</td>
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/postmanPortfolio" target="_blank">Request сollection in Postman</td>  
   </tr>
      <tr>
     <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests API</a></td>
