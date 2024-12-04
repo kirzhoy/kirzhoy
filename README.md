@@ -39,20 +39,17 @@
 <h3>Final Year Project</h3>
 
 <table  style="border-collapse: collapse"; width: "100%">
-  <caption style="font-weight: bold">Final Year Project</caption>   
  <tr>
     <td valign="top" width="50%">Description and Product requirements</td>
-    <td valign="top" width="50%">Cheklist </td>
+    <td valign="top" width="50%">Manual testing checklist</td>
   </tr>
   <tr>
-    <td valign="top" width="50%">Баг-репорты</td>
-    <td valign="top" width="50%">Колекция Postman</td>
+    <td valign="top" width="50%">Bug reports</td>
+    <td valign="top" width="50%">Request сollection in Postman</td>
   </tr>
      <tr>
-    <td valign="top" width="50%">Auto UI</td>
-    <td valign="top" width="50%">
-  <a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests API</a>
-</td>
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests UI</a></td>
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkUITests" target="_blank">Autotests API</a></td>
   </tr>
 </table>
 
