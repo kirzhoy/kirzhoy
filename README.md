@@ -13,6 +13,7 @@
 </div>
 
 ### Languages and tools
+
 <p align="center">
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt = "Postman" title = "Postman" width = "40", heigh="40"/>&nbsp;
@@ -35,6 +36,7 @@
  </div>
 
 ### Test artifacts 
+
 <p align="center">
 <table  style="border-collapse: collapse; width: 100;">
   <caption style="font-weight: bold;">Дипломная работа</caption>   
