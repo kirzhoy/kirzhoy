@@ -12,9 +12,8 @@
 </a>
 </div>
 
-### Languages and tools
+<h2>Languages and tools</h2>
 
-<p align="center">
 <div>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg"  alt = "Postman" title = "Postman" width = "40", heigh="40"/>&nbsp;
  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
@@ -37,7 +36,6 @@
 
 ### Test artifacts 
 
-<p align="center">
 <table  style="border-collapse: collapse; width: 100;">
   <caption style="font-weight: bold;">Дипломная работа</caption>   
  <tr>
