@@ -36,7 +36,7 @@
 
 <h2>Test artifacts</h2> 
 
-<h3>Final Year Project</h3>
+:memo: <h3>Final Year Project</h3>
 
 <table  style="border-collapse: collapse"; width: "100%">
  <tr>
@@ -48,8 +48,8 @@
     <td valign="top" width="50%">Request сollection in Postman</td>
   </tr>
      <tr>
-    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests UI</a></td>
-    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkUITests" target="_blank">Autotests API</a></td>
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkApiTests" target="_blank">Autotests API</a></td>
+    <td valign="top" width="50%"><a href="https://github.com/kirzhoy/GeekNetworkUITests" target="_blank">Autotests UI</a></td>
   </tr>
 </table>
 
