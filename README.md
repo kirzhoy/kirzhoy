@@ -37,7 +37,7 @@
 
 <h2>Test artifacts</h2> 
 
-<h3>📙 Final year Project</h3> 
+<h3>📙 Final diploma Project</h3> 
 
 <table  style="border-collapse: collapse"; width="100%">
  <tr>
