@@ -59,7 +59,8 @@
 - Postman with prescripts (And)
 - Testcases (And)
 - User stories (RedRover)
-- bugreports in Jira-->
+- bugreports in Jira
+- SOAP ya.speller-->
 
 
 <!-- ![Codewars](https://www.codewars.com/users/Kirzh/badges/small) -->
